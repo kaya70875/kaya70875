@@ -22,7 +22,6 @@
 ## 📊 GitHub Stats
 ![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaya70875&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaya70875&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kaya70875&theme=radical)
 
 ---
 
